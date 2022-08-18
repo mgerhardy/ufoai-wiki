@@ -1,0 +1,1 @@
+[Category:Equipamiento](Category:Equipamiento "wikilink")

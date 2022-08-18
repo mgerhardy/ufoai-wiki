@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:V2.5:Strength](Talk:V2.5:Strength "wikilink")

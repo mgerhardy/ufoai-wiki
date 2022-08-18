@@ -1,0 +1,1 @@
+1.  REDIRECT [Skills/High explosives](Skills/High_explosives "wikilink")

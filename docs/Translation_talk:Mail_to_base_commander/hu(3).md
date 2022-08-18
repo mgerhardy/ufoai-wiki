@@ -1,0 +1,1 @@
+meggondolni: az xo-t én még csak első tisztnek láttam fordítani :)

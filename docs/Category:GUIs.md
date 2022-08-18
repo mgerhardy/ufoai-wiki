@@ -1,0 +1,3 @@
+Pages about GUIs. Collection of ideas, documentations...
+
+[Category:Root](Category:Root "wikilink")

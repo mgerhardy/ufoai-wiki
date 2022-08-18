@@ -1,0 +1,1 @@
+1.  redirect [Equipment/Armour](Equipment/Armour "wikilink")

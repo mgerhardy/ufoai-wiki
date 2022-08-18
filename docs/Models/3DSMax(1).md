@@ -1,0 +1,1 @@
+1.  redirect [Modelling/3DSMax](Modelling/3DSMax "wikilink")

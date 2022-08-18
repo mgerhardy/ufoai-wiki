@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:UFO/Zwiadowca](Talk:UFO/Zwiadowca "wikilink")

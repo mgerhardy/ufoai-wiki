@@ -1,0 +1,1 @@
+1.  REDIRECT [Udstyr/Blitzgranat](Udstyr/Blitzgranat "wikilink")

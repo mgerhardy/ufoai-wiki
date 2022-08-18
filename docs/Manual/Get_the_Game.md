@@ -1,0 +1,1 @@
+1.  REDIRECT [Manual:Get the Game](Manual:Get_the_Game "wikilink")

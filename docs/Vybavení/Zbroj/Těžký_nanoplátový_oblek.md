@@ -1,0 +1,28 @@
+## Popis
+
+Zbroj, která kompletně obklopuje tělo vojáka a úplně jej odděluje od
+okolního prostředí. Brnění sestává ze tří vrstev, znichž první a třetí
+jsou vyrobeny z nano-materiálu fullerenu. Doproetřed mezi tyto vrstvy
+naši vědci vložili těžké stínící pláty proti tachynovovým částicím –
+poprvé v této válce dostlai naši vojáci ochranu proti tomuto exotickému
+záření z částicových zbraní. Jeho schopnost rozptylovat tachyonové
+záření je dle odhadů stejná jako u cizáckých zbrojí. Vnitřní systém
+podpory života a tvrdost zbroje zaručují, že voják uvnitř je chráněn
+proti omráčení, ať už se jedná o účinky zvuku ultra-vysoké frekvence,
+projektily určené pro vstříknutí drogy, omračující plyn nebo toxické
+výpary.
+
+### Bojové využití
+
+Dvě vrstvy tkanin, tkané z propojených fullerenových kroužků nabízí
+skvělou ochranu, avšak jejich vnější vrstvy mohou relativně snadno tát
+při kontaktu s plasmou. Nicméně je zbroj konstruována pro dlouhodobé
+vystavení jakýmkoli drsným podmínkám, včetně otevřeného ohně a plasmovým
+paprskům střední intenzity. Cenou této robustnosti je fakt, že je oblek
+velmi těžká, takže jej pohodlně budou moci používat pouze vemi silní
+vojáci.
+
+## Odkazy
+
+[Category:General](Category:General "wikilink")
+[Category:Armor](Category:Armor "wikilink")

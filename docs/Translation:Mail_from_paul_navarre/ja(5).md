@@ -1,0 +1,1 @@
+Paul Navarre 中佐, R&D: 技術セクション, PHALANX 大西洋作戦司令部

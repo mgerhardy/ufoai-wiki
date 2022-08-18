@@ -1,0 +1,3 @@
+- [Compile for Linux](Compile_for_Linux "wikilink")
+- [Debian](Debian "wikilink")
+- [Suse](Suse "wikilink")

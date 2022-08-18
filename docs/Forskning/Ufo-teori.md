@@ -1,0 +1,1 @@
+1.  REDIRECT [Forskning/Ufoviden](Forskning/Ufoviden "wikilink")

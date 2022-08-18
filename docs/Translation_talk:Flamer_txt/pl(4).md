@@ -1,0 +1,114 @@
+## Specyfikacja techniczna: Miotacz ognia ADA 22
+
+**POZIOM DOSTĘPU: ŻÓŁTY**
+
+Jednostka interwencyjna PHALANX
+
+Dokument techniczny, Kategoria Delta
+
+Sporządzony: 20 Marca 2084
+
+Przez: Mjr Paul Navarre, JBR: Dział Inżynieryjny, PHALANX, Dowództwo
+Operacji Atlantyckich
+
+------------------------------------------------------------------------
+
+### Przegląd
+
+Atak Obcych przeprowadzony na Bombaj jasno dowiódł niewątpliwej przewagi
+technologicznej wroga. Niezdolność wojsk Sprzymierzonych do uzyskania
+wymiernych efektów bojowych podczas próby kontrofensywy ujawniła poważne
+słabości dotychczas stosowanych środków uzbrojenia i treningu
+taktycznego. Kompletne wykrwawienie trzech doborowych batalionów
+pozwoliło jedynie powstrzymać niewielkie siły obcych, praktycznie nie
+zadając przeciwnikowi poważniejszych strat. Zadaniem nowotworzonych sił
+PHALANX będzie zmiana tych statystyk na naszą korzyść; do czego
+potrzebne będzie wszystko, co dzisiejsza ziemska technologia ma do
+zaoferowania.
+
+Powołanie do życia programu "Excalibur" ma na celu zaprojektowanie i
+stworzenie broni (oraz innych środków nowoczesnego wyposażenia takich
+jak np. osobiste pancerze), pozwalających na nawiązanie skutecznej i
+równorzędnej walki z Obcymi. Środki te projektowane są pod kątem
+podniesienia efektywności żołnierzy w boju oraz zwiększenia ich szans na
+przetrwanie podczas starcia.
+
+Atak na Bombaj, a także raporty o innych starciach z Obcymi, wskazują,
+że ci ostatni najczęściej obierają za cel rejony o gęstym zaludnieniu.
+Przeważająca większość dotychczasowych potyczek z Obcymi odbywała się w
+specyficznych realiach walki w mieście. Nie pozostało to niezauważone w
+konkluzjach Programu Excalibur, dla potrzeb którego przeanalizowano i
+wyselekcjonowano uzbrojenie o największej bojowej efektywności w starciu
+na średnie i krótkie dystanse.
+
+ADA-22, miotacz ognia produkcji irańskiej (nazywany przez żołnierzy
+Sprzymierzonych "Pochodnią Boga") to prawdziwie imponujące osiągnięcie
+inżynierii wojskowej. Prawie w niczym nie przypomina ciężkiej i
+niezgrabnej broni z XX wieku, wymagającej zbiorników mieszczących
+łatwopalny materiał pod ciśnieniem, zwykle dźwiganych na plecach
+obsługującego miotacz żołnierza. W projekcie miotacza ADA-22 zbiornik
+ten został wyeliminowany, co pozwoliło jednocześnie usunąć całą
+plątaninę rurek i wężyków nieodłącznie przypisanych do takiego
+rozwiązania, i radykalnie obniżyć wagę broni. Zamiast ciężkiego i dużego
+pojemnika, irańska konstrukcja wykorzystuje zamienne ładunki (pojemności
+jedynie 200 ml), które po opróżnieniu są odrzucane, robiąc miejsce na
+załadowanie kolejnego naboju, co jest łatwe i wygodne. Cały system jest
+genialny w swojej prostocie i zaskakująco niezawodny.
+
+Najważniejszą częścią miotacza jest potężna pompa, zakończona dyszą
+rozpylającą rozprężoną zawartość zbiornika z substancją C-90. Mieszanka
+C-90 z powietrzem jest następnie zapalana przez iskrowniki (jeden główny
+i trzy rezerwowe), generujące 10 iskier na sekundę każdy, by zapewnić
+zapłon natychmiast po rozpyleniu mieszanki i nie pozwolić na zbytnie
+rozrzedzenie mieszaniny w powietrzu, co zmieniłoby jej parametry i mogło
+prowadzić do zapłonu eksplozywnego.
+
+Substancja C-90 używana w ładunkach miotacza ADA-22 charakteryzuje się
+wyjątkowymi właściwościami. Tworząc mieszaninę z powietrzem, spala się w
+sposób opisywany przez spowolnioną reakcję termobaryczną, nie powodując
+eksplozji. Płonąca mieszanina jest w stanie upiec każdą żywą tkankę w
+przeciągu sekund; temperatura, osiągająca w środku obłoku blisko 1700
+stopni Celsjusza, wystarcza do stopienia tytanu. Jednocześnie, ze
+względu na swoją gazową, a nie koloidalną naturę, nie ma bezpośredniego
+kontaktu z celem ani nie osadza się w otoczeniu (jak np. ma to miejsce z
+napalmem), dzięki czemu wygenerowane ciepło łatwiej się rozprasza. Ta
+ostatnia cecha czyni C-90 zdecydowanie bezpieczniejszym w użyciu w
+terenie zamieszkanym przez ludzi, niż napalm.
+
+Jedyne wady miotacza ADA-22 to krótki zasięg i stosunkowo trudna w
+naprawie mechanika. Nie są to jednak wady rzeczywiście poważne.
+
+W specyfikacji wewnętrznej PHALANX opisywany miotacz ognia został
+sklasyfikowany jako CRC-FL.
+
+### Sugerowana Doktryna Postępowania
+
+Miotacz ognia CRC-FL jest bronią przeznaczoną do walki w starciu
+bezpośrednim. Ze względu na powyższy fakt, oraz sporą wagę broni,
+obsługujący go żołnierze powinni posiadać dobrą szybkość i siłę, by w
+pełni wykorzystać jej potencjał.
+
+Warto zauważyć, że miotacze ognia zwykle świetnie sprawdzają się przy
+urządzaniu zasadzek.
+
+### Dodatki
+
+CRC-FL nie powinien być używany, jeśli zachodzi obawa, że w
+bezpośredniej strefie rażenia mogą znaleźć się cywile.
+
+------------------------------------------------------------------------
+
+### Rodzaj uszkodzeń
+
+- [fire](Damage/fire "wikilink")
+
+### Zdolność
+
+- [heavy](Skills/heavy "wikilink")
+
+## Linki
+
+- [C90 Canister](Equipment/Ammunition/C90_Canister "wikilink")
+
+[Category:General](Category:General "wikilink")
+[Category:Weapons](Category:Weapons "wikilink")

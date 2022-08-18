@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:News](Talk:News "wikilink")

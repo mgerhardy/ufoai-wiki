@@ -1,0 +1,1 @@
+1.  redirect [Talk:Equipment/Armour](Talk:Equipment/Armour "wikilink")

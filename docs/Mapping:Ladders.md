@@ -1,0 +1,1 @@
+1.  redirect [Mapping/Ladders](Mapping/Ladders "wikilink")

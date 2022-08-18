@@ -1,0 +1,55 @@
+## Specyfikacja techniczna: Zbiornik C-90
+
+**POZIOM DOSTĘPU: ŻÓŁTY**
+
+Jednostka interwencyjna PHALANX
+
+Dokument techniczny, Kategoria Delta
+
+Sporządzony: 20 Marca 2084
+
+Przez: Mjr Paul Navarre, JBR: Dział Inżynieryjny, PHALANX, Dowództwo
+Operacji Atlantyckich
+
+------------------------------------------------------------------------
+
+### Przegląd
+
+Zbiornik zawierający substancję C-90, o pojemności 200 ml, wyposażony w
+trzy niezależne systemy zabezpieczeń.
+
+C-90 charakteryzuje się wyjątkowymi właściwościami. Tworząc mieszaninę z
+powietrzem, spala się w sposób opisywany przez spowolnioną reakcję
+termobaryczną, nie powodując eksplozji. Płonąca mieszanina jest w stanie
+upiec każdą żywą tkankę w przeciągu sekund; temperatura, osiągająca w
+środku obłoku blisko 1700 stopni Celsjusza, wystarcza do stopienia
+tytanu. Jednocześnie, ze względu na swoją gazową, a nie koloidalną
+naturę, nie ma bezpośredniego kontaktu z celem ani nie osadza się w
+otoczeniu (jak np. ma to miejsce z napalmem), dzięki czemu wygenerowane
+ciepło łatwiej się rozprasza. Ta ostatnia cecha czyni C-90 zdecydowanie
+bezpieczniejszym w użyciu w terenie zamieszkanym przez ludzi, niż
+napalm.
+
+Opisywany pojemnik przewidziany jest jako ładunek miotacza ognia CRC-FL.
+
+### Sugerowana Doktryna Postępowania
+
+Każdy z żołnierzy wysposażonych w miotacz ognia CRC-FL powinien mieć
+przy sobie przynajmniej jeden zapasowy pojemnik z C-90.
+
+### Dodatki
+
+Brak.
+
+------------------------------------------------------------------------
+
+### Typ uszkodzeń
+
+- [fire](Damage/fire "wikilink")
+
+### Zdolność
+
+- [heavy](Skills/heavy "wikilink")
+
+[Category:General](Category:General "wikilink")
+[Category:Ammunition](Category:Ammunition "wikilink")

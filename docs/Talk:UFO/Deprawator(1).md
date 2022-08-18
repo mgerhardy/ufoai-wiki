@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:UFO/Koruptor](Talk:UFO/Koruptor "wikilink")

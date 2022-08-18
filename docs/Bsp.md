@@ -1,0 +1,1 @@
+1.  REDIRECT [BSP tree](BSP_tree "wikilink")

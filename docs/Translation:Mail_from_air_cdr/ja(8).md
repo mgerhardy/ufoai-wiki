@@ -1,0 +1,1 @@
+Subakh al-Kuhar 中佐, 航空機隊, PHALANX 大西洋作戦司令部

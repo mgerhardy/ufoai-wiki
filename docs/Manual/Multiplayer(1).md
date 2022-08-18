@@ -1,0 +1,1 @@
+1.  REDIRECT [Manual:Multiplayer](Manual:Multiplayer "wikilink")

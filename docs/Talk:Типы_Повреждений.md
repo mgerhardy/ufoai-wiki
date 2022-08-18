@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:Типы повреждений](Talk:Типы_повреждений "wikilink")

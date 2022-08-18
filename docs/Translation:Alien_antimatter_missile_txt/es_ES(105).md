@@ -1,0 +1,99 @@
+# Entrada de la OVNIpedia
+
+## Propuesta
+
+**PARA:** Comandante de la Base, PHALANX, Centro de Operaciones
+Atlánticas
+
+**DE:** Cte. Paul Navarre, I+D: División de Ingeniería, PHALANX, Comando
+de Operaciones Atlánticas
+
+**FECHA:** %02i %s %i
+
+**ASUNTO:** Propuesta: Misil Antimateria Alienígena
+
+Comandante, hemos recuperado una interesante clase de misil alienígena
+del OVNI desmantelado. Parece ser propulsado por antimateria, con
+avanzados sistemas de guía, extensa capacidad de GE (Guerra Electrónica)
+y velocidades máximas muy superiores a cualquier cosa que hayamos visto.
+
+Estos misiles podrían ser la mayor amenaza para nuestras aeronaves hasta
+el momento, incluso peor que el armamento de partículas alienígena.
+Pruebas preliminares muestran que sus sistemas de guía prácticamente se
+burlan de nuestras CME, en la mayoría de los casos pasando justo por en
+medio de todo lo que podemos interponer.
+
+Es extremadamente importante que investiguemos estos misiles y
+comprendamos como funcionan para desarrollar alguna defensa en su
+contra.
+
+--Cte. Navarre
+
+## Resultados
+
+**PARA:** Comandante de la Base, PHALANX, Centro de Operaciones
+Atlánticas
+
+**DE:** Cte. Paul Navarre, I+D: División de Ingeniería, PHALANX, Comando
+de Operaciones Atlánticas
+
+**FECHA:** %02i %s %i
+
+**ASUNTO:** RE: Misil Antimateria Alienígena
+
+Comandante, mi equipo y yo hemos completado nuestro trabajo con el misil
+antimateria recuperado por nuestro equipo de campo. Como siempre, hay
+buenas y malas noticias. Iré directo al grano.
+
+La estructura principal del misil consiste de un fuselaje exterior
+rígido compuesto de materiales alienígenas, los mismos que usan para
+fabricar los cascos OVNI, y esta diseñado para fragmentarse al impacto
+en cientos de esquirlas formando una metralla caliente de alta
+velocidad. Este casco contiene compartimientos individuales para
+sistemas de guía, aviónicos, equipo GE y otros electrónicos, y --
+ocupando la mayor parte de la mitad trasera del misil -- un cohete de
+desintegración protón-antiprotón.
+
+El cohete es por mucho el más poderoso sistema de propulsión de misiles
+jamás visto en la Tierra, capaz de alcanzar velocidades que son
+simplemente imposibles mediante reacciones químicas ordinarias. Esto
+impulsa al misil a velocidades a las que ya no necesita una carga
+explosiva abordo. La energía cinética generada por el impacto es
+suficiente para despedazar un avión de pasajeros humano no blindado, e
+incluso una detonación cercana del combustible antimateria del misil es
+normalmente suficiente para derribar un avión de combate. Nuestros
+interceptores no están diseñados para soportar esta clase de violencia.
+
+Los electrónicos de abordo del misil han sido particularmente
+interesantes. Son muy superiores a los nuestros, pero tengo buenas
+noticias. Hemos rastreado suficientes de las frecuencias
+electromagnéticas usadas por el equipo GE del misil que podemos empezar
+a tomar alguna acción en su contra. Me he tomado la libertad de
+actualizar el software de nuestras aeronaves con la nueva información,
+lo que significa que deberíamos tener más posibilidades de rastrear
+estas cosas en nuestro radar, así como darles a nuestras aeronaves mayor
+oportunidad de evadirlos misiles alienígenas.
+
+Podemos duplicar los misiles bastante bien, pero aun requerirán
+antimateria como combustible, probablemente la sustancia más valiosa en
+el universo en este momento. Tengo algunas ideas sobre como podemos
+salvar esta situación, pero aún no estoy listo para enviar ninguna
+propuesta en este momento. Le haré saber cuando lo haya resuelto,
+Comandante.
+
+--Cte. Navarre
+
+# Research Tree Data
+
+**(This information for reference only; do not translate or include
+in-game.)**
+
+*`Prerequisites:`*
+` 1 Alien Antimatter Missile`
+
+*`Opens:`*
+
+------------------------------------------------------------------------
+
+[Category:General](Category:General "wikilink")
+[Category:Aircraft](Category:Aircraft "wikilink")

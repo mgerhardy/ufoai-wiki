@@ -1,0 +1,1 @@
+[Category:Artworks](Category:Artworks "wikilink")

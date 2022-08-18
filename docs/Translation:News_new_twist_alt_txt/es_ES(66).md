@@ -1,0 +1,79 @@
+# Entradas de la OVNIpedia
+
+## Propuesta
+
+**PARA:** Comandante de la Base, PHALANX, Centro de Operaciones
+Atlánticas
+
+**DE:** Dr. Connor, I+D: División de Biología y Contención, PHALANX,
+Centro de Operaciones Atlánticas
+
+**FECHA:** %02i %s %i
+
+**ASUNTO:** Un Nuevo Giro
+
+Comandante,
+
+Éste es un informe extremadamente urgente; por favor, créame cuando digo
+que no se puede esperar ni un minuto más.
+
+Hemos llegado a conclusiones inquietantes durante nuestra continua
+investigación sobre el organismo XVI. Tengo razones para creer que el
+virus XVI puede jugar un papel incluso mayor de lo que habíamos creído
+en un principio en el plan de los alienígenas.
+
+En primer lugar, algunos antecedentes. Durante nuestros análisis
+preliminares de esta estructura celular alienígena, encontramos algunas
+anomalías porque nuestras pruebas de replicación de ADN fracasaban
+debido a una inexplicable contaminación de las muestras. Inicialmente lo
+atribuimos a un error humano, pero el problema ha continuado
+produciéndose con absoluta regularidad. El mismo resultado, una y otra
+vez; siempre que examinábamos una muestra que no hubiese sido
+criogenizada para su almacenamiento, no lográbamos extraer una sola
+secuencia genética que no estuviese contaminada. Nada de esto tenía
+sentido hasta nuestro reciente descubrimiento de infecciones por el
+virus VXI entre la población civil. Inmediatamente sospeché una
+correlación, pero quería esperar hasta que pudiera demostrarlo, y desde
+entonces he pasado la mayor parte de mi tiempo libre estudiando el
+problema. Ahora creo que he encontrado la causa - el propio virus VXI.
+
+He llegado a la conclusión de que cada especie alienígena es portadora
+de una variante de este microorganismo infeccioso. Esto se puede
+atribuir a diferencias en la anatomía y el tipo de sangre del huésped
+-algunas de estas variantes incluso parecen no vivir en la sangre-, pero
+todas son inconfundiblemente lo mismo. Sólo podemos suponer que las
+distintas variantes fueron diseñadas para adaptarse a cada especie.
+
+Dado que cada especie alienígena lleva una variedad única de la
+infección, he decidido modificar ligeramente nuestra nomenclatura,
+asignando a cada variante del virus la letra inicial de su huésped. Así,
+los seres humanos son portadores del XVI-H, los Tamanes del XVI-T, y así
+sucesivamente.
+
+La función del microorganismo en los alienígenas no es evidente, ya que
+no disponemos de individuos sin infectar como control para medir el
+efecto de la infección. Sin embargo, teniendo en cuenta la información
+disponible, tenemos que concluir que el XVI es más que una simple arma
+biológica utilizada contra la humanidad. Incluso podría ser utilizado de
+manera similar - un dispositivo esclavizador que suprime la conciencia
+individual y supedita al sujeto a la mente colectiva, tanto si hay un
+grupo como si no. Quizá todos los alienígenas enviados a la Tierra sean
+miembros de una especie de casta de soldados esclavos, o incluso
+prisioneros obligados a combatir, como los batallones de convictos del
+Ejército Rojo en la Segunda Guerra Mundial. Sobre este punto apenas
+podemos empezar a especular.
+
+Comandante, creo que deberíamos llevar a cabo una agresiva investigación
+sobre el virus XVI para que podamos encontrar la verdad oculta tras
+algunos de estos misterios. Tenemos que determinar el verdadero
+propósito de este organismo, lo que implica para la guerra y para
+nosotros como especie. El XVI-H es posiblemente la mayor amenaza a la
+que nos hayamos enfrentado jamás.
+
+No podemos permitir que estas cosas esclavicen a nuestro planeta.
+
+Atentamente,
+
+Dr. Connor
+
+[Category:Translating](Category:Translating "wikilink")

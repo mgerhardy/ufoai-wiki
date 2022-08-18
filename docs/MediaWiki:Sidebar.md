@@ -1,0 +1,16 @@
+- wiki-navigation
+  - Manual\|Manual
+  - Contribute\|Contribute
+  - FAQ\|FAQ
+  - recentchanges-url\|recentchanges
+  - Special:SpecialPages\|specialpages
+  - helppage\|help
+- project-navigation
+  - News\|News-item
+  - Download\|Download-item
+  - <https://ufoai.org/forum/%7CForum>
+  - Contribute\|Contribute-item
+  - Media\|Media
+  - Manual/FAQ\|FAQ-item
+  - About\|About
+  - Contact\|Contact

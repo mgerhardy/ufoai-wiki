@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:Skills/strength](Talk:Skills/strength "wikilink")

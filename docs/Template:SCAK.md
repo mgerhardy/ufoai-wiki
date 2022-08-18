@@ -1,0 +1,2 @@
+<span class="hotkeybg" style="white-space: nowrap;" title="Shift + Ctrl + Alt + {{{1}}}"><span class="hotkey">Shift</span><span class="hotkey">Ctrl</span><span class="hotkey">Alt</span>
+<span class="hotkey"></span></span>

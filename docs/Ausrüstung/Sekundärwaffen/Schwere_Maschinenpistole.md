@@ -1,0 +1,1 @@
+1.  REDIRECT [Translation:Smg txt/de](Translation:Smg_txt/de "wikilink")

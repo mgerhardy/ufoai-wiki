@@ -1,0 +1,1 @@
+1.  REDIRECT [Translation:Rpg txt/de](Translation:Rpg_txt/de "wikilink")

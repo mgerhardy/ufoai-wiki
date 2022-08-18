@@ -1,0 +1,104 @@
+# Záznam UFOpedie
+
+## Návrh výzkumu
+
+**PRO:** Velitel základny, PHALANX, Velení atlantických operací
+
+**OD:** Velitel Paul Navarre, VaV technické oddělení, PHALANX, Velení
+atlantických operací
+
+**DATUM:** %02i %s %i
+
+**PŘEDMĚT:** Návrh výzkumu: UFO - Bitevník
+
+Veliteli, záskali jsme nový typ UFO, které momentlně čeká v hangáru na
+demontáž. Podle mimořádně těžké výzbroje se zdá, že se jedná o nějaký
+těžký stíhač nebo plavidlo palebné podpory, jeho velikost leží někde
+mezi doposud pozorovanými UFO.
+
+Je to první cizácké plavidlo, které jsem viděli, vytvořené nepochybně
+pro boj. Ještě více znepokojující je fakt, že má určité vlastnosti, o
+kterých se domníváme, že činí plavidlo lépe přitpůsobeným atmosférickému
+letu. Myslím, že ho musíme prozkoumat ihned, protože může představovat
+významný posun v cizácké strategii a taktice.
+
+Jsme připraveni začít rozebírat a studovat toto plavidlo kdykoli
+řeknete, ale budeme potřebovat nějaký laboratorní čas a finanční
+prostředky na řádné posouzení jeho funkcí a schopností.
+
+--Velitel Navarre
+
+## Výsledek
+
+**PRO:** Velitel základny, PHALANX, Velení atlantických operací
+
+**OD:** Velitel Paul Navarre, VaV:technické oddělení, PHALANX, Velení
+atlantických operací
+
+**DATUM:** %02i %s %i
+
+**PŘEDMĚT:** Re: UFO – Bitevník
+
+Veliteli, právě jsem pro Vás se svým týmem dokončil další zprávu o UFO.
+Zde je souhrn poznatků pro zhodnocení.
+
+Nazvali jsme toto plavidlo UFO - Bitevník, a jméno Vám řekne mnoho o
+jeho zamýšlené funkci. Jeho výzbroj a pancéřování převyšuje běžná UFO
+dvakrát. Domníváme se, že byla navržena jako těžký / přepadový stíhač a
+tuto roli plní skvěle.
+
+UFO je vyzbojeno dvěma částicovými zbraněmi, stejně jako – což je velmi
+zajímavé – dvěma dalšími modulárními závěsy, téměř identickými s těmi,
+které na letadlech používáme my. Vypadá to, že se cizáci přizpůsobili
+náš design pro vlastní potřebu a mohou na jednotlivých plavidlet nosit
+rozdílnou výzbroj. Jestliže se cizáci od nás učí, máme se na nejspíš na
+co těšit…
+
+Ještě zajímavější je pancéřování dělové lodi, je vylepšené oproti
+standarcnímu pancíři z materiálů, které jsme mohli vidět během první
+vlny invaze. Tento nový pančíř je složen z vrstev cizáckého materiálu a
+různých dalších substancí navržených pro zpomalení a zastavení průniku
+projektilů. Základní princip je dost jednoduchý, ale nové sloučeniny
+mají zajímavé vlastnosti, o nichž nevíme, zda jim plně rozumíme. Podívám
+se, zda s tím můj tým dokáže něco udělat a pokud ano, připravím pro Vás
+brzy nový výzkumný projekt.
+
+Konstrukce trupu dělové lodi je zdánlivě stejná jako u vesmírných
+plavidel, ale s určitými změnami, které velmi usnadňují ovládání v
+atmosféře. Má na trupu křídla, která generují vztlak na rozdíl od design
+s malými drápovitými křidélky, které spoléhaly na surový výkon motoru,
+aby se udržely ve vzduchu. Kromě toho mobilní klapky a stabilizátory –
+podobně jako u lidských strojů – umožňují dělové lodi využít prodění
+vzduchu kolem povrchu, umožňující mnohem utaženější otáčení, mnohem
+větší úhel útoku a obrovskou stoupavost v porovnání s UFO, které se
+pohybuje pouze pomocí tahu motoru.
+
+Celkově vzato je bitevník rychlý, dobře manévrovatelný a naprosto
+smrtící. Zdá se, že překonává všechna dříve pozorovaná UFO po všech
+stránkách, je rychlejší, pevnější, lépe vyzbrojený a hbitější. Jediné
+pozitivum je, že jejich postavení zkonzumuje třikrát až čtyřikrát více
+materiálu v porovnání s malými útočnými plavidly a spotřebuje dvakrát
+více paliva, aby se udržel v letu, takže je nepravděpodobné, že bychom
+viděli bitevníky ve velkých počtech. Doporučujeme extrémní opatrnost a
+já doporučuji strávit více času a více finančních prosředků na vylepšení
+naší vzdušné flotily, jakmile to bude možné.
+
+--Velitel Navarre
+
+# Strom výzkumných informací
+
+**(This information for reference only; do not translate or include
+in-game.)**
+
+*`Prerequisites:`*
+` 1 Gunboat UFO`
+` `[`UFO Theory`](Research/UFO_Theory "wikilink")
+
+*`Opens:`*
+
+------------------------------------------------------------------------
+
+See also [Vehicles & UFOs](Vehicles_&_UFOs "wikilink")
+
+[Category:General](Category:General "wikilink")
+[Category:Aircraft](Category:Aircraft "wikilink")

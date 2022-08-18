@@ -1,0 +1,1 @@
+1.  redirect [Living Quarters/](Living_Quarters/ "wikilink")

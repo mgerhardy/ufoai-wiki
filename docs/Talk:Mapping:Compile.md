@@ -1,0 +1,1 @@
+1.  redirect [Talk:Mapping/Compile](Talk:Mapping/Compile "wikilink")

@@ -1,0 +1,1 @@
+1.  redirect [Trash Can](Trash_Can "wikilink")

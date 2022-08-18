@@ -1,0 +1,1 @@
+1.  redirect [Primary Weapons](Primary_Weapons "wikilink")

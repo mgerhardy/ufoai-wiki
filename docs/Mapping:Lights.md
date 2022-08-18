@@ -1,0 +1,1 @@
+1.  redirect [Mapping/Lights](Mapping/Lights "wikilink")

@@ -1,0 +1,82 @@
+## Tegninger -- stor hangar
+
+**KLASSIFIKATIONSNIVEAU SORT**
+
+FALANKS Rumvæsenudrykningsenhed
+
+Konstruktionstegninger, Sigma tilladelse -- Kun for øverstbefalendes
+øjne
+
+Arkiveret: 11. august 2008
+
+Af: General E. Baxter, Basekommandør, FALANKS, Stillehavskommandoen
+
+------------------------------------------------------------------------
+
+### Oversigt
+
+På grund af vores seneste omstrukturering af vores luftflåde, har vi
+måtte foretage en fuldstændig omrokering og nydesign af vores
+hangarbygninger. VTOL (vertikal start og landing) kravet der gælder for
+alle nye FALANKS luftfartøjer har fjernet vores behov for landingsbaner.
+Det har gjort det muligt at flytte alle vores hangarer ind i selve basen
+og har derfor ført til forøget sikkerhed og responstider.
+
+Den store hangar yder underjordiske plads til opbevaring og
+vedligeholdelse af 1 stort VTOL-luftfartøj. Reparationer, genladning og
+optankning kan udføres fuldstændigt skjult. Luftfartøjet ser slet ikke
+sollys før det er tid til dets næste flyvning. Under letning skydes
+hangarens tag op og den store hydrauliske lift løfter luftfartøjet i
+position over taget hvor det sikkert kan lette.
+
+Under landingen har liften flere lange fangkroge som -- når de er påsat
+af en landingspilot -- forsigtigt sætter luftfartøjet ned i
+landingsposition. Fangkrogene er intelligente og kan justere deres greb
+og endda overføre grebet fra krog til krog så understellet af
+luftfartøjet er i korrekt position. Så snart fangkrogene har sat
+luftfartøjet i position og sænket det ned på landingsområdet, har
+piloten kun en opgave tilbage, nemlig at slukke for motorerne. Systemet
+er simpelt og nemt at håndtere når først en pilot har fanget systemet.
+
+Et næsten identisk system er indført for den lille hangar.
+
+Den store hangar kan ikke håndtere små luftfartøjer da disse er
+inkompatible med støtteudstyret såsom brændstofslanger.
+
+### Anbefalet doktrin
+
+Den primære funktion for den store hangar er at håndtere
+troppeluftfartøjer, som hurtigt kan sende tropper til steder med
+rumvæsenaktivitet. Alternativt kan den huse og håndtere større kampfly.
+Se venligst de specifikke luftfartøjfiler for en gennemgang af de
+områder det enkelte luftfartøj kan håndtere.
+
+Hvert FALANKS luftfartøj kræver en hangar i passende størrelse til
+parkering, vedligeholdelse og til brug for opsendelse.
+
+Hangarer er ekstremt sårbare bygninger på grund af deres direkte
+forbindelse med overfladen. De vil være et primært mål for ethvert
+rumvæsenangreb. De er samtidig højrisiko bygninger da de er fyldt med
+flybrændstof og højeksplosivt ammunition. Endnu værre er det, at ethvert
+luftfartøj placeret på basen vil være et indbydende mål; skade på vores
+kortrækkende jagerfly -- eller endnu mere skræmmende på vores
+transportluftfartøjer -- vil gøre os ukampdygtige i ugevis.
+
+Hvis muligt bør alle luftfartøjer lette før et forestående angreb og
+fjernes fra området, indtil angrebet er ovre. De vil måske blive mødt i
+luften af en ufo, men i det mindste vil de have mulighed for at
+manøvrere. Det er dog ikke altid den bedste strategi. At foretage en
+opsendelse indenfor afstand af en tungt armeret ufo kan have ødelæggende
+konsekvens. En parkering i hangaren kan derfor være at foretrække,
+selvom det er et indbydende mål.
+
+### Tilføjelse
+
+Ingen.
+
+------------------------------------------------------------------------
+
+See also: [Vehicles & UFOs](Vehicles_&_UFOs "wikilink")
+
+[Category:General](Category:General "wikilink")
+[Category:Facilities](Category:Facilities "wikilink")

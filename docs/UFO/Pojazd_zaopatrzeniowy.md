@@ -1,0 +1,1 @@
+1.  REDIRECT [UFO/Zaopatrzeniowiec](UFO/Zaopatrzeniowiec "wikilink")

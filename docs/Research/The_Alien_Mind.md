@@ -1,0 +1,1 @@
+1.  redirect [Aliens/The Alien Mind](Aliens/The_Alien_Mind "wikilink")

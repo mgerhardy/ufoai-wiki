@@ -1,0 +1,1 @@
+1.  REDIRECT [Manual talk:Summary](Manual_talk:Summary "wikilink")

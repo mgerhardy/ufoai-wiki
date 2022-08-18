@@ -1,0 +1,1 @@
+1.  bodyContent P { margin-bottom: 1.2em; }

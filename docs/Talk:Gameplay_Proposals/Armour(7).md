@@ -1,0 +1,1 @@
+1.  redirect [Talk:TODO/2.2/Armour](Talk:TODO/2.2/Armour "wikilink")

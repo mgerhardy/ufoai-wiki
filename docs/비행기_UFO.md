@@ -1,0 +1,1 @@
+1.  REDIRECT [항공기](항공기 "wikilink")

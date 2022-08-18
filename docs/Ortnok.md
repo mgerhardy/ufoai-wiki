@@ -1,0 +1,1 @@
+1.  redirect [Aliens/Ortnok](Aliens/Ortnok "wikilink")

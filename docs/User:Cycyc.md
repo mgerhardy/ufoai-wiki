@@ -1,0 +1,1 @@
+cycyc is derived from the endlish pronounciation of psyche.

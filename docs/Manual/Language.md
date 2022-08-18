@@ -1,0 +1,1 @@
+1.  REDIRECT [Manual:Language](Manual:Language "wikilink")

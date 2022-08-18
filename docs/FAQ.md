@@ -1,0 +1,1 @@
+1.  redirect [Manual:FAQ](Manual:FAQ "wikilink")

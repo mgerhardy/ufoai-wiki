@@ -1,0 +1,1 @@
+Good idea, I would name it Homing grenade, though.

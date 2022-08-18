@@ -1,0 +1,1 @@
+1.  redirect [Equipment/Misc/Flare](Equipment/Misc/Flare "wikilink")

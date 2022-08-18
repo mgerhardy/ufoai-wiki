@@ -1,0 +1,1 @@
+1.  redirect [Talk:Aliens/Taman](Talk:Aliens/Taman "wikilink")

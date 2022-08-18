@@ -1,0 +1,1 @@
+1.  redirect [Equipment/Misc/Knife](Equipment/Misc/Knife "wikilink")

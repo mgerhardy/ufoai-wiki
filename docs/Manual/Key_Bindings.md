@@ -1,0 +1,1 @@
+1.  REDIRECT [Manual:Key Bindings](Manual:Key_Bindings "wikilink")

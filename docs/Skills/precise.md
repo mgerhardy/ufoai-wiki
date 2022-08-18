@@ -1,0 +1,1 @@
+1.  redirect [Skills/sniper](Skills/sniper "wikilink")

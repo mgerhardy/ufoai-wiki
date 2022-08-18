@@ -1,0 +1,1 @@
+1.  REDIRECT [Media/Map screenshots](Media/Map_screenshots "wikilink")

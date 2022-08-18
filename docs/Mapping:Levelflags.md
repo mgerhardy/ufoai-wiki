@@ -1,0 +1,1 @@
+1.  redirect [Mapping/Levelflags](Mapping/Levelflags "wikilink")

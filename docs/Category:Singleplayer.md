@@ -1,0 +1,1 @@
+[Category:Manual](Category:Manual "wikilink")

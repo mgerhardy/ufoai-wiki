@@ -1,0 +1,1 @@
+1.  REDIRECT [Talk:Skills/v2.5](Talk:Skills/v2.5 "wikilink")

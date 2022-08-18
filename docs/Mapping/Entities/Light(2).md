@@ -1,0 +1,1 @@
+1.  redirect [Mapping/Entities/light](Mapping/Entities/light "wikilink")

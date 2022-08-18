@@ -1,0 +1,1 @@
+Black holes are, where god devided by zero.

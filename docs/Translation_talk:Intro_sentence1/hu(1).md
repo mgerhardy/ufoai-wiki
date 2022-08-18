@@ -1,0 +1,1 @@
+Nyers fordítás, javítások jöhetnek! :)

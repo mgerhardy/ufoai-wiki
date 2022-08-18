@@ -1,0 +1,1 @@
+1.  REDIRECT [Badania/Spis XVI](Badania/Spis_XVI "wikilink")

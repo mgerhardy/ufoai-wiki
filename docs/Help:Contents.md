@@ -1,0 +1,3 @@
+- See [MediaWiki Help](http://meta.wikimedia.org/wiki/Help:Contents)
+- [Manual](Manual "wikilink")
+- [Templates](Templates "wikilink")

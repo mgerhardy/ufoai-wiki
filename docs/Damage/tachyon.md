@@ -1,0 +1,1 @@
+1.  redirect [Damage/particle beam](Damage/particle_beam "wikilink")

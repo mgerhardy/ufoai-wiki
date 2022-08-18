@@ -1,0 +1,1 @@
+Something about phosphor, napalm, etc. here, anybody?

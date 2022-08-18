@@ -1,0 +1,1 @@
+1.  redirect [UFO/Scout](UFO/Scout "wikilink")

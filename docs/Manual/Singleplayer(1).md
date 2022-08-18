@@ -1,0 +1,1 @@
+1.  REDIRECT [Manual:Singleplayer](Manual:Singleplayer "wikilink")

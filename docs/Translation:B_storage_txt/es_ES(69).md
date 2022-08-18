@@ -1,0 +1,1 @@
+1.  REDIRECT [Instalaciones/Almacén](Instalaciones/Almacén "wikilink")
